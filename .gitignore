@@ -1,0 +1,5 @@
+﻿venv/
+IRMAS-TrainingData/
+*.npy
+.ipynb_checkpoints/
+__pycache__/
